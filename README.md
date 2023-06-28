@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS and mongoDB as database.**
 
-- 📫 Connect With Me **souravp9057@gmail.com**
+- 📫 You can Reach Me **souravp9057@gmail.com**
 
 - ⚡ Fun fact **I'm reading a book about anti-gravity. It's impossible to put down!**
 
