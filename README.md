@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsaurav19&label=Profile%20views&color=0e75b6&style=flat" alt="paulsaurav19" /> </p>
 
-- 🌱 I’m currently learning **ReactJS and mongoDB as database.**
+- 💻 I’m a Web developer and Tech Enthusiast
+
+- 🔭I'm currently working on open-source projects
+
+- 👀 I’m looking for... ("GTA VI, Anyone has?")
+  
+- 🌱 I’m currently learning **ReactJS and MongoDB as database.**
+
+- 😊 I love to play games🎮 and listen to music🎧
 
 - 📫 You can Reach Me **souravp9057@gmail.com**
 
