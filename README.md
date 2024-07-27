@@ -11,7 +11,7 @@
 
 - 👀 I’m looking for... ("GTA VI, Anyone has?")
   
-- 🌱 I’m currently learning **ReactJS and MongoDB as database.**
+- 🌱 I’m currently learning **NextJs**
 
 - 😊 I love to play games🎮 and listen to music🎧
 
