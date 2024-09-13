@@ -32,7 +32,7 @@
   <summary>:trophy: GitHub Stats</summary>
   
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaurav19&show_icons=true&locale=en&layout=compact" alt="paulsaurav19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaurav19&show_icons=true&theme=radical&locale=en&layout=compact" alt="paulsaurav19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulsaurav19&show_icons=true&locale=en" alt="paulsaurav19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulsaurav19&show_icons=true&theme=radical&locale=en" alt="paulsaurav19" /></p>
 </details>
